@@ -10,6 +10,13 @@ TodoList App is a simple web application built with React.js that allows users t
 - Persist tasks in the local storage
 - Dark mode support for better visibility
 
+## To run 
+
+- Naviagate to folder and 
+``` Javascript
+npm run dev
+```
+
 ## Reference
 
 https://github.com/hiteshchoudhary
