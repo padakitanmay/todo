@@ -10,24 +10,6 @@ TodoList App is a simple web application built with React.js that allows users t
 - Persist tasks in the local storage
 - Dark mode support for better visibility
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-# TodoList App
-
-TodoList App is a simple web application built with React.js that allows users to manage their daily tasks. It utilizes React Context API for state management and local storage for data persistence, ensuring that tasks are saved even after the browser is closed.
-
-## Features
-
-- Add new tasks to the todo list
-- Mark tasks as completed
-- Delete tasks from the todo list
-- Persist tasks in the local storage
-- Dark mode support for better visibility
-
 ## Reference
 
 https://github.com/hiteshchoudhary
